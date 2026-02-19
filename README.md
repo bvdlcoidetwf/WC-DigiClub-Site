@@ -5,6 +5,7 @@ Make any changes you want. Make the website your own. Just follow these simple r
 1. Be kind and school appropriate
 2. Don't delete other people's content (Unless you're improving upon it)
 3. Make a folder for your files when making or uploading multiple files - this will keep the project nice and organised. Use your name as the folder name.
+4. Don't edit the README file.
 
 ## Making a contribution
 1. Create a [Github account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
